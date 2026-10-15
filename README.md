@@ -1,16 +1,29 @@
-## Hi there 👋
-
-<!--
-**gav0id/gav0id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre style="background-color: #0c0c0c; color: #ff3333; padding: 25px; font-family: monospace; line-height: 1.2; font-weight: bold; border-radius: 8px;">
+                                              ##                       /###*            _..----.._
+                                      ##     /               /###*                     (   (@)    )
+         _..----.._                          \ .   |            /// /##/ . ,##'  |    ##     ~""----""~
+        (   (@)    )                 *#.    \ .  |           (((  ##( /###*    \    )   (@
+         ~""----""~                   \.      . .\          (((  ##(/##* .f###\ . . j   /                      _..----.._
+                                        \.      .  \%%\.    \ \\// /##* \ (   )).../                      (   (@)    )
+                                          /## _ .-  \%%%-.\((( %##/  /##)(##*%%)                           ~""----""~
+         _..----.._                 '|\..  \(@)  _.-. \. %%.\\\ %#% /##)    /#)  /#
+        (   (@)    )                 *****_%%%\/..///#=**=%\%%%\\%#|   /////#/ _/##_./'           \
+         ~""----""~                       '*%%%=\_=-=########%%%%%)/ .//##*%%#%###*'             _..----.._      _..----.._
+                                   .,,,      _.-'/#@***  * %%%\\* '*,%,@, _       ,,            (   (@)    )    (   (@)    )
+                                     ******'      (##     //#  |\\))\\ `*@%\*******              ~""----""~      ~""----""~
+         _..----.._                                *%%%_,/ ## /  |  )  %%%_.*
+        (   (@)    )                                     \( /  (    )##    ****'
+         ~""----""~
+                                                         //   '###*
+                                                        //
+         _..----.._                                    //
+        (   (@)    )                                  //
+         ~""----""~                                  //      ,###%@) .
+                                                    //    ,***++                                    _..----.._
+                                                   //  ,**'                                        (   (@)    )
+                                                  ///*                                              ~""----""~
+                                                 #*
+                                                 |
+                                                 |
+                                                  \
+</pre>
