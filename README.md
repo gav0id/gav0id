@@ -26,3 +26,8 @@
           ~""----""~                           |
                                                 \
 </pre>
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhqdHd3ZzY4eWVqaXVyZjlmY2FqNDJ5dzVhZW92bDlzeWdvODZkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0uHFghzt6hrno4J8V9/giphy.gif" alt="Anime aesthetic gif" style="border-radius: 10px; max-width: 100%; width: 600px;" />
+</p>
+<br>
